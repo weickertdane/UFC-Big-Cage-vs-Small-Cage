@@ -2,11 +2,12 @@
 Analyzing Fight Duration differences by Weight Class
 
 Graphs
+https://docs.google.com/presentation/d/19Z-H2y193FKP5c-M2s2ChpUr-EPmamswrKAIzWuj9Mc/edit?usp=sharing
 
 
 Data Notes 
 
-Dataset spans from May 9th, 2020 to August 20th, 2022. 
+- Dataset spans from May 9th, 2020 to August 20th, 2022. 
 
 Sample Sizes by Weight Class
 
